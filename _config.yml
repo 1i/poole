@@ -30,3 +30,7 @@ github:
 gems:
   - jekyll-paginate
   - jekyll-gist
+
+
+# Google services
+google_analytics: UA-90784212-1
